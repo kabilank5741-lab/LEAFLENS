@@ -1,0 +1,4 @@
+# Install separately for model training (may be large; use Python 3.10/3.11 and a compatible TF version).
+tensorflow>=2.15,<2.17
+tensorflowjs>=4.17,<5
+Pillow>=10.0
